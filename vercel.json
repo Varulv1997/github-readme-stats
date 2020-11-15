@@ -1,1 +1,8 @@
-
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/Varulv1997/github-readme-stats"
+    }
+  ]
+}
